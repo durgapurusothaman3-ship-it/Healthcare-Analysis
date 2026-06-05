@@ -58,16 +58,26 @@ Pandas
 Matplotlib
 Seaborn
 Jupyter Notebook
-Project Structure
-Healthcare-Patient-Analysis-System/
-│
-├── healthcare_analysis.ipynb
-├── healthcare_data.csv
-├── README.md
-├── images/
-│   ├── risk_distribution.png
-│   ├── age_distribution.png
-│   ├── heatmap.png
-│   └── scatter_plot.png
-│
-└── requirements.txt
+ 
+
+                                                        OUTPUT
+
+
+<img width="591" height="463" alt="image" src="https://github.com/user-attachments/assets/b8ca4966-7ce5-4938-b2f7-ab1106dcd35f" />
+                                                        
+<img width="394" height="411" alt="image" src="https://github.com/user-attachments/assets/a87ff8a2-f655-48a9-91dc-950944f96508" />
+
+<img width="558" height="440" alt="image" src="https://github.com/user-attachments/assets/d63e1ee5-a2ae-4f3b-ae31-6965a9612c78" />
+
+<img width="582" height="463" alt="image" src="https://github.com/user-attachments/assets/92affc52-e13f-4c85-b27a-79a3978dba06" />
+
+<img width="581" height="463" alt="image" src="https://github.com/user-attachments/assets/52fc0d1e-ff5f-49cb-9ec5-7dabfae61406" />
+
+<img width="737" height="634" alt="image" src="https://github.com/user-attachments/assets/73fe6682-c13c-4a28-9e75-7b6699a7f569" />
+
+
+
+
+
+
+                 
